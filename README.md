@@ -1,4 +1,4 @@
-![image](https://github.com/TrucThanh12/Book_Store/assets/85022379/85347b29-5e1a-4208-accc-789154d1d65d)# Book_Store
+# Book_Store
 ## Mô tả
 ReactJs, MySQL, Java
 - Đăng nhập, đăng ký
