@@ -1,0 +1,8 @@
+.preview-img {
+  max-width: 180px;
+  max-height: 200px;
+  margin: 0 1em 1em 0;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}

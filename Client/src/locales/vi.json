@@ -1,0 +1,148 @@
+{
+    "hello": "Cửa hàng sách trực tuyến",
+    "nav": "Cửa hàng sách",
+    "home": "Trang chủ",
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+    "product_management": "Quản lý sản phẩm",
+    "order_management": "Quản lý hóa đơn",
+    "order_history": "Lịch sử mua hàng",
+    "logout": "Đăng xuất",
+    "cart": "Giỏ hàng",
+    "search":"Tìm kiếm",
+    "result":"Kết quả tìm thấy",
+    "want":"Bạn muốn mua gì?",
+    "buy":"Mua ngay",
+
+
+    "alert_add_product_cart": "Thêm sản phẩm vào giỏ hàng thành công!!!",
+    "alert_not_add_product_cart": "Không thể thêm sản phẩm vào giỏ hàng, vui lòng thử lại!!!",
+    "author": "Tác giả",
+    "rating":"Đánh giá",
+    "description": "Mô tả",
+    "price":"Giá",
+    "total_page":"Số trang",
+    "dateRelease": "Ngày phát hành",
+    "typeBook": "Thể loại",
+    "check_book_cart":"Sản phẩm đã có trong giỏ hàng",
+    "add_book_cart":"Thêm vào giỏ hàng",
+    "review_custom": "Đánh giá của khách hàng",
+    "all":"Tất cả",
+    "star":"sao",
+    "comment":"Nhận xét",
+    "done_comment":"Cảm ơn bạn đã đánh giá của bạn, chúng tôi sẽ xem xét đánh giá của bạn để cải thiện dịch vụ của chúng tôi tốt hơn",
+    "text_comment":"Đánh giá ở đây, tối đa 100 ký tự",
+    "send":"Gửi",
+
+    "text_search":"Nhập sách muốn tìm?",
+    "confirm_delete_book":"Bạn có muốn xóa sản phẩm này không?",
+    "alert_delete_success":"Xóa sản phẩm thành công!!",
+    "view":"Xem sách",
+    "delete":"Xóa sách",
+    "add":"Thêm sách mới",
+    "add_book_success":"Lưu sách thành công!!!",
+    "information": "Thông tin của sách",
+    "name_book":"Tên sách",
+    "error_name_book":"Vui lòng nhập tên sách",
+    "error_author": "Vui lòng nhập tên tác giả",
+    "error_description":"Vui lòng nhập mô tả",
+    "error_date":"Vui lòng chọn ngày phát hành",
+    "error_total":"Vui lòng nhập số trang",
+    "error_type":"Vui lòng chọn thể loại sách",
+    "error_price":"Vui lòng nhập giá sản phẩm",
+    "error_photo":"Vui lòng chọn ảnh",
+    "save":"Lưu",
+    "choose_photo":"Chọn ảnh",
+
+
+    "update_book_success":"Cập nhật sách thành công!!!",
+    "edit":"Sửa",
+
+    "cancel_order_success": "Hủy đơn hàng thành công!!",
+    "cancel_not_order": "Không thể hủy đơn hàng!!!",
+    "date_order": "Ngày đặt hàng",
+    "number":"Số lượng",
+    "total_money": "Thành tiền",
+    "address":"Địa chỉ",
+    "number_phone": "Số điện thoại",
+    "name_user_order":"Tên người nhận hàng",
+    "total_order": "Tổng hóa đơn",
+    "status_order":"Trạng thái hóa đơn",
+    "pending":"Chờ xác nhận",
+    "cancel":"Đơn hàng bị hủy",
+    "confirm":"Giao hàng thành công",
+    "cancel_order":"Hủy đơn hàng",
+    
+
+    "order_success":"Đặt hàng thành công!!!",
+    "order_not_success":"Đặt hàng thất bại!!!",
+    "clear_all":"Xóa tất cả",
+    "information_user":"Thông tin người nhận",
+    "error_name_user":"Vui lòng nhập tên người dùng",
+    "error_address":"Vui lòng nhập địa chỉ",
+    "error_number_phone1":"Vui lòng nhập số điện thoại",
+    "error_number_phone2":"Số điện thoại không đúng định dạng",
+    "continue":"Tiếp tục mua sắm",
+    "order": "Đặt hàng",
+
+
+    "confirm_order_success":"Giao hàng thành công",
+    "confirm_order_not":"Không thể giao hàng",
+    "confirm2":"Chuyển hàng",
+
+
+    "error_login": "Email hoặc mật khẩu bị sai",
+    "error_email1":"Vui lòng nhập email",
+    "error_email2":"Sai định dạng Email",
+    "password": "Mật khẩu",
+    "error_password":"Vui lòng nhập mật khẩu",
+    "check_user":"Chưa có tài khoản?",
+
+
+    "first_name": "Họ",
+    "last_name": "Tên",
+    "error_password2": "Mật khẩu không ít hơn 6 kí tự",
+
+    "office":"TRỤ SỞ CHÍNH HÀ NỘI",
+    "product": "SẢN PHẨM",
+    "contact":"LIÊN HỆ",
+    "footer1": "TRỢ GIÚP",
+    "footer2": "Tài liệu hướng dẫn",
+    "footer3": "Hướng dẫn thanh toán",
+    "footer4": "Điều khoản sử dụng"
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+    
+}

@@ -1,0 +1,119 @@
+{
+    "hello": "Book Store Online",
+    "nav": "Book Store",
+    "home": "Home",
+    "login": "Login",
+    "signup": "Sign Up",
+    "product_management": "Management Book",
+    "order_management": "Management Order",
+    "order_history": "Management Order",
+    "logout": "Logout",
+    "cart": "Cart",
+    "search":"Search",
+    "result":"Search results",
+    "want":"What do you want to buy?",
+    "buy":"Buy now",
+
+
+    "alert_add_product_cart": "Product added to cart successfully!!!",
+    "alert_not_add_product_cart": "Unable to add product to cart, please try again!!!",
+    "author": "Author",
+    "rating": "Rating",
+    "description":"Description",
+    "price":"Price",
+    "total_page":"Total Page",
+    "dateRelease": "Date Release",
+    "typeBook":"Type",
+    "check_book_cart":"Products already in the cart",
+    "add_book_cart":"Add to cart",
+    "review_custom": "Customer reviews",
+    "all":"All",
+    "star":"star",
+    "comment":"Comment",
+    "done_comment":"Thank you for your review, we will consider your review to improve our service better.",
+    "text_comment":"Review here, up to 100 characters",
+    "send":"Send",
+
+    "text_search":"Enter the book you want to find?",
+    "confirm_delete_book": "Do you want to delete this product?",
+    "alert_delete_success":"Delete product successfully!!!",
+    "view": "View",
+    "delete": "Delete",
+    "add":"Add new book",
+    "add_book_success":"Save the book successfully!!!",
+    "information": "Information of the book",
+    "name_book": "Title",
+    "error_name_book":"Please enter title book",
+    "error_author": "Please enter author",
+    "error_description":"Please enter description",
+    "error_date":"Please enter date release",
+    "error_total":"Please enter total page",
+    "error_type":"Please select type book",
+    "error_price":"Please enter price",
+    "error_photo":"Please choose photo",
+    "save":"Save",
+    "choose_photo":"Choose photo",
+
+
+    "update_book_success":"Update book successfully",
+    "edit":"Edit",
+
+
+    "cancel_order_success": "Order cancel successfully!!",
+    "cancel_not_order": "Can't cancel order!!!",
+    "date_order": "Date Order",
+    "number":"Number",
+    "total_money":"Total Money",
+    "address":"Address",
+    "number_phone":"PhoneNumber",
+    "name_user_order":"FullName",
+    "total_order":"Total Order",
+    "status_order":"Order Status",
+    "pending":"Pending",
+    "cancel":"Cancel",
+    "confirm":"Confirm",
+    "cancel_order":"Cancel",
+
+
+    "order_success":"Order successfully!!!",
+    "order_not_success":"Order failed",
+    "clear_all":"Clear All",
+    "information_user":"Information User",
+    "error_name_user":"Please enter name",
+    "error_address":"Please enter address",
+    "error_number_phone1":"Please enter the phone number",
+    "error_number_phone2":"Phone number is not correct",
+    "continue":"Continue buy",
+    "order": "Order",
+
+
+    "confirm_order_success":"Delivery successful",
+    "confirm_order_not":"Unable to deliver",
+    "confirm2":"Confirm",
+
+
+    "error_login": "Email or password is wrong",
+    "error_email1":"Please enter email",
+    "error_email2":"Email format wrong",
+    "password": "Password",
+    "error_password":"Please enter password",
+    "check_user":"No account?",
+
+    
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "error_password2": "Password not less than 6 characters",
+
+    "office":"HANOI OFFICE",
+    "product": "PRODUCT",
+    "contact":"CONTACT",
+    "footer1": "HELP",
+    "footer2": "Manual document",
+    "footer3": "Payment guide",
+    "footer4": "Terms of use"
+    
+
+
+
+
+}

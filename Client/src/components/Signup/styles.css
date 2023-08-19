@@ -1,0 +1,6 @@
+.img-fluid{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px 0 0 10px;
+}
