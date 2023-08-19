@@ -1,4 +1,4 @@
-# Book_Store
+![image](https://github.com/TrucThanh12/Book_Store/assets/85022379/85347b29-5e1a-4208-accc-789154d1d65d)# Book_Store
 ## Mô tả
 ReactJs, MySQL, Java
 - Đăng nhập, đăng ký
@@ -15,5 +15,9 @@ ReactJs, MySQL, Java
 
 ## Hình ảnh trang đăng nhập
 ![Đăng nhập](https://i.imgur.com/aB52FJM.png)
+
+## Hình ảnh trang quản lý sách
+![b](https://i.imgur.com/uUSXGxL.png)
+![c](https://i.imgur.com/Ztb2ujS.jpg)
 
 
